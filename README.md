@@ -65,7 +65,7 @@ python -c "import ollama; print('Ollama Installed')"
 
 Each version adds new features. Run any with:
 
-streamlit run f5_ollama_streamlit_wizard_fixed.py
+streamlit run f5_ollama_streamlit_wizard.py
 streamlit run f5_ollama_streamlit.py
 streamlit run f5_ollama_streamlit_v2.py
 streamlit run f5_ollama_streamlit_v3.py
