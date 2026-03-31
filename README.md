@@ -95,18 +95,3 @@ MIT License – see LICENSE file
 🏷️ Topics
 
 F5 BIG-IP, LTM, VIP, Pool, SNAT, SSL, CLI, Network Automation, Streamlit, Ollama AI, Python, DevOps, Networking Lab, Automation, TMSH
-
-
----
-
-✅ **This README includes:**  
-
-- Project overview and purpose  
-- Features across versions  
-- Step-by-step setup (Python + Streamlit + Ollama AI)  
-- Running instructions for all 6 scripts  
-- Teaching/learning focus  
-- Auto-monitor rules and CLI generation logic  
-- License and suggested topics  
-
----
